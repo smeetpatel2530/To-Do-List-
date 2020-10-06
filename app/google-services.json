@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016740193659",
+    "firebase_url": "https://to-do-list-efac6.firebaseio.com",
+    "project_id": "to-do-list-efac6",
+    "storage_bucket": "to-do-list-efac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016740193659:android:dd433a05dcca43d91e89de",
+        "android_client_info": {
+          "package_name": "com.smeet.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016740193659-hofuniipct0o0kchsipun9v80uu4leq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smeet.todolist",
+            "certificate_hash": "03c99b7f2ea96d4b4859145abdfcbd388afc72c2"
+          }
+        },
+        {
+          "client_id": "1016740193659-loke88nq9fppk2i1u1krq3s7nqgisij2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3O3uCd0WCcDwqw4qZwC62PFFtMsrnhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016740193659-loke88nq9fppk2i1u1krq3s7nqgisij2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
